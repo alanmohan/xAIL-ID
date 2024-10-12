@@ -58,7 +58,7 @@ The **xAIL-ID** framework is designed to provide a robust intrusion detection so
 
 This architecture ensures that the system not only provides accurate intrusion detection but also offers insight into how predictions are made, which is critical for improving trust and understanding in AI models.
 
-<img src="/images/framework_architecture" alt="Alt Text" style="width:70%; height:auto;">
+<img src="/images/framework_arch.png" alt="Alt Text" style="width:70%; height:auto;">
 
 ## Model Architecture
 
@@ -71,7 +71,7 @@ The **LSTM-based model** is the core of the xAIL-ID framework, designed to detec
 
 This architecture is optimized for detecting both known and unknown attack patterns in IoT environments.
 
-![Model Architecture](/images/lstm_model_dark.png)
+![Model Architecture](/images/lstm_model_light.png)
 
 ## Model Results
 
