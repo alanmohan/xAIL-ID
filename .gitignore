@@ -1,2 +1,5 @@
 .DS_Store
 .vscode
+NSL-KDD\kdd_processed_bin.csv
+NSL-KDD\kdd_processed_bin_top15.csv
+NSL-KDD\kdd_processed_bin_lime.csv
